@@ -3,7 +3,7 @@
 <h2>Python & Flutter Developer</h2>
 <div><div>
 
-Here are some ideas to get you started:
+  <h3>about me:</h3>
 
 - 🔭 I’m interested in Dart/Flutter..
 - 🌱 Presently, I'm developing Softwares & apps with Flutter.
